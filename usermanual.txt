@@ -1,0 +1,21 @@
+User Manual: Fitness Tracker Application
+
+Welcome to the Fitness Tracker Application, fitness.py! This application helps you keep track of your workouts and personal fitness goals. Below is a guide on how to use the different features of the application.
+
+1. Main Interface:
+
+Upon launching the application, you will see the main interface consisting of different pages accessible through the navigation bar at the top. The available pages are:
+
+Dashboard: Provides an overview of your fitness progress, as in the most recently tracked exercise.
+Workout Log: Interface for logging your different workouts. 
+Personal Goals: Interface for tracking and logging your personal goals.
+
+2. Navigation Bar:
+
+The navigation bar at the top of the window contains buttons for each page of the application. Clicking on a button will navigate you to the corresponding page.
+
+7. Exiting the Application:
+
+To exit the application, click on the "Exit" button located on the Dashboard page. This will close the application window.
+
+That's it! You are now ready to use fitness.py to monitor your fitness progress and achieve your personal fitness goals. Thank you for reading.
